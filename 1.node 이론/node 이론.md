@@ -39,7 +39,7 @@
 ---   
 
 ### Node.js - URL
-* URL
+* URL<br>
 	![Alt text](url.png)
 	* 쿼리 스트링 : ? 로 시작
 	* 값과 값 사이 : & 로 구분
@@ -270,7 +270,7 @@
 		* 실행 오류 시
 			1. 관리자 권한으로 powershell 실행
 			2. <code>Set-executionPolicy RemoteSigned</code> 입력 후 <code>Y</code> 입력
-		* 출력 결과 :
+		* 출력 결과 :<br>
 		![Alt text](pm2.png)
 			* main : 우리가 실행한 프로그램 이름
 			* 상태 : online - 실행 중
